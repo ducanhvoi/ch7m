@@ -1,0 +1,13 @@
+<html>
+
+<head>
+    <title>Button and Hidden Controls</title>
+
+</head>
+<body>
+    <from action=""http://ww.example.com/add.php>
+        <button><img src="imges/add.gif" alt="add"width="10"height="10"/></button>
+        <input type="hidden" name="bookmark" value="lyrics" />
+    </from>
+</body>
+</html>

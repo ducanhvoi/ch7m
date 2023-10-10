@@ -1,0 +1,17 @@
+<html>
+
+<head>
+    <title>Drop down list box</title>
+</head>
+
+<body>
+    <form acction="http://ww.example.com/profile.php">
+        <p>What device do you listen to music on?</p>
+        <select name="device">
+             <option value="inpod">iPod</option>
+             <option value="radio">Radio</option>
+             <option value="computer">Compute</option>
+        </select>
+    </form>
+</body>
+</html>
